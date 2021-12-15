@@ -7,42 +7,4 @@ In case of doubts you can visit (examplegithubpages).
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-																			Made by: Víctor Martínez Zapata
+Made by: Víctor Martínez Zapata
